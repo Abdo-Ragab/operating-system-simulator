@@ -255,6 +255,9 @@ This project is licensed under the MIT License.
 
 ---
 
-## Author
+## Authors
 
-Abdelrahman Ragab and Team 21
+- Abdelrahman Ragab
+- Aly Maher
+- Mohamed Khalifa
+- Hussein Sonbol
